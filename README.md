@@ -2,7 +2,6 @@
 #                                                         
 # These Python scripts are for educational purposes only! 
 #                                                         
-#
 fuzzer.py - this script sends data to SLmail, starting at 100, increasing by 200 until 4000 is reached or until SLmail crashes. The purpose is to find the point at which SLmail crashes relative to the data that's being sent.
 
 poc.py - this script is used to find the position of the EIP.
@@ -16,7 +15,6 @@ slmailsploit.py - this script is used to exploit SLmail to acquire a SYSTEM leve
 #                                                                               
 # Please check out my Udemy courses! Coupon code applied to following links.... 
 #                                                                               
-#
 Kali Linux Hands-on Penetration Testing Labs:
 
 https://www.udemy.com/kali-linux-hands-on-penetration-testing-labs/?couponCode=TENDOLLARS
