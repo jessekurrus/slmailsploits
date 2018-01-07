@@ -2,7 +2,7 @@
 import time, struct, sys
 import socket as so
 
-# Buff represents an array of buffers. This will be incremented by 200 in order to attempt to crash SLmail.
+# Buff represents an array of buffers. This will be start at 100 and be incremented by 200 in order to attempt to crash SLmail.
 
 buff=["A"]
 
